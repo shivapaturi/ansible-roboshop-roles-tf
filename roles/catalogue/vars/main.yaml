@@ -1,1 +1,2 @@
-MONGODB_HOST: "mongodb-{{ env }}.daws84ss.site"
+MONGODB_HOST: "mongodb-{{ env }}.mydaws.site"
+daemon_reload

@@ -1,2 +1,2 @@
-REDIS_HOST: redis.mydaws.site
-CATALOGUE_HOST: catalogue.mydaws.site
+REDIS_HOST: redis-{{ env }}.mydaws.site.
+CATALOGUE_HOST: catalogue.backend-{{ env }}.mydaws.site.
